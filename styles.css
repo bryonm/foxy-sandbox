@@ -58,7 +58,7 @@ ul {
   margin-left: 20px;
 }
 
-.ty-container {
+.ty-cont {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -67,11 +67,11 @@ ul {
   margin-bottom: 50px;
 }
 
-.ty-container p {
+.ty-cont p {
   margin-top: -15px;
 }
 
-.ty-container img {
+.ty-cont img {
   max-width: 300px;
   margin-top: 25px;
   border-radius: 15%;
