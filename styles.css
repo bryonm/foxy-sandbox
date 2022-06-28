@@ -58,7 +58,7 @@ ul {
   margin-left: 20px;
 }
 
-.offer-container {
+.ty-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -67,11 +67,11 @@ ul {
   margin-bottom: 50px;
 }
 
-.offer-container p {
+.ty-container p {
   margin-top: -15px;
 }
 
-.offer-container img {
+.ty-container img {
   max-width: 300px;
   margin-top: 25px;
   border-radius: 15%;
